@@ -1,0 +1,7 @@
+README.md
+setup.py
+titanic_prediction.egg-info/PKG-INFO
+titanic_prediction.egg-info/SOURCES.txt
+titanic_prediction.egg-info/dependency_links.txt
+titanic_prediction.egg-info/requires.txt
+titanic_prediction.egg-info/top_level.txt
